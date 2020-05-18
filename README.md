@@ -1,7 +1,8 @@
 Google-docs-backed-blog-platform  
   
-  
-Our idea  
+    
+      
+Our idea:  
 We want to make a blog platform similar to medium.com but uses Google Docs API for writing articles (optional main feature)  
   
 Similar projects:  
@@ -13,11 +14,11 @@ https://github.com/nesdis/djongo
   
   
 Features:  
- Register as a user and hook Gmail account  
- View other people blogs and articles and see the most popular blogs  
- Adding Articles to user blog and using a google document  
- Programmatically add Trigger on user google document save to send a request us to check for changes and update the document
- user “admin” panel where they can manage added articles and check reactions and traffic on their blog, and be able to delete/publish/add new articles to their blogs  
+ 1.Register as a user and hook Gmail account  
+ 2.View other people blogs and articles and see the most popular blogs  
+ 3.Adding Articles to user blog and using a google document  
+ 4.Programmatically add Trigger on user google document save to send a request us to check for changes and update the document  
+ 5.User “admin” panel where they can manage added articles and check reactions and traffic on their blog, and be able to delete/publish/add new articles to their blogs.  
   
   
 Suggested Technologies:  
