@@ -29,7 +29,9 @@ Features:
      
        
 Suggested Technologies:  
-Django as the main web framework (has good SEO built-in)  
-Use PostgreSQL for the user and Gmail auth, and use MongoDB for article and blog data storage, look into using firebase as article storage  
-Use https://editorjs.io/ as an alternative to Google Doc editing  
+1.Django as the main web framework (has good SEO built-in)  
+  
+2.Use PostgreSQL for the user and Gmail auth, and use MongoDB for article and blog data storage, look into using firebase as article storage  
+  
+3.Use https://editorjs.io/ as an alternative to Google Doc editing  
   
